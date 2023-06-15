@@ -5,8 +5,6 @@ date: 2023-06-14 05:55:32 +0800
 categories: developing
 ---
 
-# 10 分钟掌握 Go 泛型
-
 by yijie
 
 最近都在研究类型系统，比如 Haskell, OCaml, Swift, Rust。
@@ -26,20 +24,20 @@ by yijie
 
 定义 struct 和 receiver
 
-```
+```go
 type S[T constraint] struct {}
 func (S[T]) Receive() {}
 ```
 
 定义 interface
 
-```
+```go
 type I[T constraint] interface {}
 ```
 
 定义 function
 
-```
+```go
 func F[T constraint] Foo(v T) {}
 ```
 
@@ -57,7 +55,7 @@ Go 目前仅支持 func 的类型推断，其他的 generic struct 和 generic i
 
 Receiver 不能再有自己的泛型参数了。但这在实际项目中还是挺有用的，例如
 
-```
+```go
 type Origin[T any] struct {
     Value T
 }
@@ -87,17 +85,17 @@ Go 不支持方法的默认实现。这其实跟泛型关系不是很大，虽�
 
 举个 swift 的例子：
 
-```
+```swift
 protocol 飞机 {
-var 会飞: Bool { get }
+    func 起飞()
 }
 
 protocol 汽车 {
-var 在陆地上跑: Bool { get }
+    func 遛一遛()
 }
 
 extension 汽车 where Self: 飞机 {
-var 飞行汽车: Bool {true}
+    var 飞行汽车: Bool {true}
 }
 ```
 
