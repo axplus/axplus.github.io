@@ -56,3 +56,5 @@ plugins:
 #   - vendor/ruby/
 
 show_ad_post: true
+# theme: jekyll-theme-so-simple
+google_analytics: UA-16094032
