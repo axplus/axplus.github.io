@@ -13,7 +13,8 @@ by yijie
 
 注释应该提供代码没有的信息。
 
-最好在函数开始的地方写上一个注释，明确解释用了什么算法。
+1. 最好在函数开始的地方写上一个注释，明确解释用了什么算法
+2. 在 module interface 中加入对 **用法** 的注释（切记不是对函数本身的注释）
 
 ### 以及不要写什么
 
@@ -89,3 +90,7 @@ let rec print_lambda lam =
 >   | App (l1, l2) ->
 >      printf "(%a %a)" print_lambda l1 print_lambda l2
 > ```
+
+> ### Usage in Module iIterface
+
+> The function's usage must appear in the module's interface that exports it, not in the program that implements it. Choose comments as in the OCaml system's interface modules, which will subsequently automatically extract the documentation of the interface module if necessary.
