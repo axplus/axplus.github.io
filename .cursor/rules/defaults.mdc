@@ -1,0 +1,6 @@
+---
+description:
+globs:
+alwaysApply: true
+---
+- 这是一个 nextjs 静态页面项目

@@ -4,67 +4,99 @@ title: Fusion Privacy
 permalink: /fusion/privacy
 ---
 
-# **Privacy Policy**
+# 隐私政策
 
-**Axplus Design** built the **Note Fusion** app as a Free app. This SERVICE is provided by **Axplus Design** at no cost and is intended for use as is.
+## 导言
 
-This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
+_Note Fusion_ 是一款由 _Axplus Studio_ （以下简称"我们"）提供的产品。
 
-If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
+您在使用我们的服务时，我们可能会收集和使用您的相关信息。我们希望通过本《隐私政策》向您说明，在使用我们的服务时，我们如何收集、使用、储存和分享这些信息，以及我们为您提供的访问、更新、控制和保护这些信息的方式。
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at **Note Fusion** unless otherwise defined in this Privacy Policy.
+本《隐私政策》与您所使用的 _Note Fusion_ 服务息息相关，希望您仔细阅读，在需要时，按照本《隐私政策》的指引，作出您认为适当的选择。本《隐私政策》中涉及的相关技术词汇，我们尽量以简明扼要的表述，并提供进一步说明的链接，以便您的理解。
 
-## **Information Collection and Use**
+**您使用或继续使用我们的服务，即意味着同意我们按照本《隐私政策》收集、使用、储存和分享您的相关信息。**
 
-For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way.
+如对本《隐私政策》或相关事宜有任何问题，请通过 **axplus@163.com** 与我们联系。
 
-The app does use third-party services that may collect information used to identify you.
+## 1. 我们收集的信息
 
-Link to the privacy policy of third-party service providers used by the app
+我们或我们的第三方合作伙伴提供服务时，可能会收集、储存和使用下列与您有关的信息。如果您不提供相关信息，可能无法注册成为我们的用户或无法享受我们提供的某些服务，或者无法达到相关服务拟达到的效果。
 
--   [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
+## 1.1 订阅服务说明
 
-## **Log Data**
+我们提供以下订阅服务：
 
-I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
+-   **iCloud Sync Monthly**：这是一项按月付费的 iCloud 同步服务，通过 Apple 的订阅系统进行管理。
+    -   订阅后您可以使用 iCloud 跨设备同步您的所有数据
+    -   订阅费用将通过您的 Apple ID 账户收取
+    -   订阅会自动续期，除非您在当前订阅期结束前至少 24 小时取消订阅
+    -   您可以在 iOS 设备的"设置"中管理或取消订阅
+    -   如果您在免费试用期内取消订阅，剩余的试用期权益将立即失效
 
-## **Cookies**
+在使用订阅服务时，我们会收集必要的支付信息和使用数据，以确保服务的正常运行。这些信息的处理同样遵循本隐私政策的各项规定。
 
-Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
+## 2. 信息的存储
 
-This Service does not use these “cookies” explicitly. However, the app may use third-party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
+### 2.1 信息存储的方式和期限
 
-## **Service Providers**
+-   我们会通过安全的方式存储您的信息，包括本地存储（例如利用 APP 进行数据缓存）、数据库和服务器日志。
+-   一般情况下，我们只会在为实现服务目的所必需的时间内或法律法规规定的条件下存储您的个人信息。
 
-I may employ third-party companies and individuals due to the following reasons:
+### 2.2 信息存储的地域
 
--   To facilitate our Service;
--   To provide the Service on our behalf;
--   To perform Service-related services; or
--   To assist us in analyzing how our Service is used.
+-   我们会按照法律法规规定，将境内收集的用户个人信息存储于中国境内。
+-   目前我们不会跨境传输或存储您的个人信息。将来如需跨境传输或存储的，我们会向您告知信息出境的目的、接收方、安全保证措施和安全风险，并征得您的同意。
 
-I want to inform users of this Service that these third parties have access to their Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+### 2.3 产品或服务停止运营时的通知
 
-## **Security**
+-   当我们的产品或服务发生停止运营的情况时，我们将以推送通知、公告等形式通知您，并在合理期限内删除您的个人信息或进行匿名化处理，法律法规另有规定的除外。
 
-I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
+## 3. 信息安全
 
-## **Links to Other Sites**
+我们使用各种安全技术和程序，以防信息的丢失、不当使用、未经授权阅览或披露。例如，在某些服务中，我们将利用加密技术（例如 SSL）来保护您提供的个人信息。但请您理解，由于技术的限制以及可能存在的各种恶意手段，在互联网行业，即便竭尽所能加强安全措施，也不可能始终保证信息百分之百的安全。您需要了解，您接入我们的服务所用的系统和通讯网络，有可能因我们可控范围外的因素而出现问题。
 
-This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+## 4. 我们如何使用信息
 
-## **Children’s Privacy**
+我们可能将在向您提供服务的过程之中所收集的信息用作下列用途：
 
-These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13 years of age. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do the necessary actions.
+-   向您提供服务；
+-   在我们提供服务时，用于身份验证、客户服务、安全防范、诈骗监测、存档和备份用途，确保我们向您提供的产品和服务的安全性；
+-   帮助我们设计新服务，改善我们现有服务；
+-   使我们更加了解您如何接入和使用我们的服务，从而针对性地回应您的个性化需求，例如语言设定、位置设定、个性化的帮助服务和指示，或对您和其他用户作出其他方面的回应；
+-   向您提供与您更加相关的广告以替代普遍投放的广告；
+-   评估我们服务中的广告和其他促销及推广活动的效果，并加以改善；
+-   软件认证或管理软件升级；
+-   让您参与有关我们产品和服务的调查。
 
-## **Changes to This Privacy Policy**
+## 5. 信息共享
 
-I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
+目前，我们不会主动共享或转让您的个人信息至第三方，如存在其他共享或转让您的个人信息或您需要我们将您的个人信息共享或转让至第三方情形时，我们会直接或确认第三方征得您对上述行为的明示同意。
 
-This policy is effective as of 2023-11-29
+为了投放广告，评估、优化广告投放效果等目的，我们需要向广告主及其代理商等第三方合作伙伴共享您的部分数据，要求其严格遵守我们关于数据隐私保护的措施与要求，包括但不限于根据数据保护协议、承诺书及相关数据处理政策进行处理，避免识别出个人身份，保障隐私安全。
 
-## **Contact Us**
+我们不会向合作伙伴分享可用于识别您个人身份的信息（例如您的姓名或电子邮件地址），除非您明确授权。
 
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at _axplus@163.com_, or visit my site at _https://axplus.github.io_.
+我们不会对外公开披露所收集的个人信息，如必须公开披露时，我们会向您告知此次公开披露的目的、披露信息的类型及可能涉及的敏感信息，并征得您的明示同意。
 
-This privacy policy page was created at [privacypolicytemplate.net](https://privacypolicytemplate.net) and modified/generated by [App Privacy Policy Generator](https://app-privacy-policy-generator.nisrulz.com/)
+随着我们业务的持续发展，我们有可能进行合并、收购、资产转让等交易，我们将告知您相关情形，按照法律法规及不低于本《隐私政策》所要求的标准继续保护或要求新的控制者继续保护您的个人信息。
+
+另外，根据相关法律法规及国家标准，以下情形中，我们可能会共享、转让、公开披露个人信息无需事先征得您的授权同意：
+
+-   与国家安全、国防安全直接相关的；
+-   与公共安全、公共卫生、重大公共利益直接相关的；
+-   犯罪侦查、起诉、审判和判决执行等直接相关的；
+-   出于维护个人信息主体或其他个人的生命、财产等重大合法权益但又很难得到本人同意的；
+-   个人信息主体自行向社会公众公开个人信息的；
+-   从合法公开披露的信息中收集个人信息的，如合法的新闻报道、政府信息公开等渠道。
+
+## 6. 您的权利
+
+在您使用我们的服务期间，我们可能会视产品具体情况为您提供相应的操作设置，以便您可以查询、删除、更正或撤回您的相关个人信息，您可参考相应的具体指引进行操作。此外，我们还设置了投诉举报渠道，您的意见将会得到及时的处理。如果您无法通过上述途径和方式行使您的个人信息主体权利，您可以通过本《隐私政策》中提供的联系方式提出您的请求，我们会按照法律法规的规定予以反馈。
+
+## 7. 变更
+
+我们可能适时修订本《隐私政策》的条款。当变更发生时，我们会在版本更新时向您提示新的《隐私政策》，并向您说明生效日期。请您仔细阅读变更后的《隐私政策》内容，**若您继续使用我们的服务，即表示您同意我们按照更新后的《隐私政策》处理您的个人信息。**
+
+## 8. 未成年人保护
+
+我们鼓励父母或监护人指导未满十八岁的未成年人使用我们的服务。我们建议未成年人鼓励他们的父母或监护人阅读本《隐私政策》，并建议未成年人在提交的个人信息之前寻求父母或监护人的同意和指导。
