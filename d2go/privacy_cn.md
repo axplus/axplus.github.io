@@ -1,6 +1,6 @@
 ---
 layout: page
-title: D2Go 隐私政策
+# title: D2Go 隐私政策
 permalink: /d2go/privacy
 ---
 

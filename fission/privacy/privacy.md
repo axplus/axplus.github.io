@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Fission Privacy
+# title: Fission Privacy
 permalink: /fission/privacy
 ---
 

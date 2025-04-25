@@ -1,10 +1,9 @@
 ---
-layout: page
-title: Fusion Privacy
+layout: default
 permalink: /fusion/privacy
 ---
 
-# 隐私政策
+# Fusion 隐私政策
 
 ## 导言
 

@@ -1,10 +1,10 @@
 ---
-layout: page
-title: Fusion Terms
+layout: default
+# title: Fusion Terms
 permalink: /fusion/terms
 ---
 
-# 服务条款
+# Fusion 服务条款
 
 ## 1. 接受条款
 
