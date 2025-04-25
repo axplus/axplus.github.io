@@ -1,0 +1,22 @@
+<div class="sidebar">
+  <div class="container sidebar-sticky">
+    <div class="sidebar-about">
+      <h1>
+        <a href="{{ site.baseurl }}">
+          {{ site.title }}
+        </a>
+      </h1>
+      <p class="lead">{{ site.sidebar-about-description }}</p>
+    </div>
+
+    <nav class="sidebar-nav">
+      {% for link in site.sidebar-nav-links %}
+        <a class="sidebar-nav-item{% if page.url == link[1] %} active{% endif %}" href="{{ link[1] | relative_url }}">
+          {{ link[0] }}
+        </a>
+      {% endfor %}
+    </nav>
+
+    <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
+  </div>
+</div>

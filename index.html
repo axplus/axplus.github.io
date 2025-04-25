@@ -1,0 +1,50 @@
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: default
+title: Home
+---
+
+<div class="posts">
+  {% for post in site.posts %}
+  <div class="post">
+    <h1 class="post-title">
+      <a href="{{ post.url | relative_url }}">
+        {{ post.title }}
+      </a>
+    </h1>
+
+    <span class="post-date">{{ post.date | date_to_string }}</span>
+
+    {% if post.description %}
+      {{ post.description }}
+    {% else %}
+      {{ post.excerpt }}
+    {% endif %}
+
+    {% if post.description or post.excerpt %}
+    <div class="read-more">
+      <a href="{{ post.url | relative_url }}">阅读全文 &raquo;</a>
+    </div>
+    {% endif %}
+
+  </div>
+  {% endfor %}
+</div>
+
+{% if site.posts.size > 5 %}
+
+<div class="pagination">
+  {% if paginator.next_page %}
+    <a class="pagination-item older" href="{{ paginator.next_page_path | relative_url }}">更早的文章</a>
+  {% else %}
+    <span class="pagination-item older">更早的文章</span>
+  {% endif %}
+  {% if paginator.previous_page %}
+    <a class="pagination-item newer" href="{{ paginator.previous_page_path | relative_url }}">最新文章</a>
+  {% else %}
+    <span class="pagination-item newer">最新文章</span>
+  {% endif %}
+</div>
+{% endif %}

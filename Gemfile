@@ -17,6 +17,9 @@ gem "github-pages", "~> 232", group: :jekyll_plugins
 # 如果你有任何插件，把它们放在这里！
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.17.0"
+  gem "jekyll-sitemap", "~> 1.4.0"
+  gem "jekyll-seo-tag", "~> 2.8.0"
+  gem "jekyll-paginate", "~> 1.1.0"
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
@@ -40,5 +43,7 @@ gem "base64"
 gem "bigdecimal"
 
 # 添加必要的 Jekyll 插件
-gem "jekyll-sitemap", "~> 1.4.0"
-gem "jekyll-seo-tag", "~> 2.8.0"
+# gem "jekyll-sitemap", "~> 1.4.0"
+# gem "jekyll-seo-tag", "~> 2.8.0"
+
+gem "webrick", "~> 1.8"

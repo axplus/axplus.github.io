@@ -27,16 +27,23 @@ description: >- # this means to ignore newlines until "baseurl:"
     value communication and collaboration with clients to solve design problems
     and create outstanding brand and memorable design works.
 baseurl: '' # the subpath of your site, e.g. /blog
-url: '' # the base hostname & protocol for your site, e.g. http://example.com
-# twitter_username: jekyllrb
-# github_username: jekyll
+url: 'https://axplus.github.io' # the base hostname & protocol for your site
+author:
+    name: 'Axplus Studio'
+    url: https://axplus.github.io
 
 # Build settings
-theme: minima
+remote_theme: poole/hyde
 plugins:
     - jekyll-feed
     - jekyll-sitemap
     - jekyll-seo-tag
+    - jekyll-paginate
+
+# Pagination
+paginate: 5
+paginate_path: '/page:num/'
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
@@ -64,3 +71,14 @@ google_analytics: UA-16094032
 # GitHub Pages 设置
 repository: axplus/axplus.github.io
 github: [metadata]
+
+# Hyde theme settings
+sidebar-about-description: 'A creative design studio that has a passionate and professional team.'
+sidebar-nav-links:
+    Home: /
+    # D2Choose: /d2choose/
+    # D2Go: /d2go/
+    # D2Outliner: /d2outliner/
+    Fusion: /fusion/
+    # Fission: /fission/
+    About: /about/
