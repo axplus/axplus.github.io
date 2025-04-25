@@ -7,12 +7,17 @@
     background-color: #202020;
     color: rgba(255, 255, 255, 0.5);
     text-align: right;
+    height: 100vh;
 }
 
 .sidebar-sticky {
     position: absolute;
     right: 1rem;
     top: 1rem;
+    bottom: 1rem;
+    display: flex;
+    flex-direction: column;
+    height: calc(100% - 2rem);
 }
 
 .sidebar-about h1,
@@ -22,15 +27,27 @@
     text-align: right;
 }
 
+.sidebar-footer {
+    margin-top: auto;
+    text-align: right;
+}
+
 @media (max-width: 48em) {
     .sidebar {
         position: relative;
         width: 100%;
+        height: auto;
     }
 
     .sidebar-sticky {
         position: relative;
         right: auto;
         top: auto;
+        bottom: auto;
+        height: auto;
+    }
+
+    .sidebar-footer {
+        margin-top: 2rem;
     }
 }
