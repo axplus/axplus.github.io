@@ -1,0 +1,36 @@
+.sidebar {
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: 300px;
+    padding: 2rem 1rem;
+    background-color: #202020;
+    color: rgba(255, 255, 255, 0.5);
+    text-align: right;
+}
+
+.sidebar-sticky {
+    position: absolute;
+    right: 1rem;
+    top: 1rem;
+}
+
+.sidebar-about h1,
+.sidebar-about p,
+.sidebar-nav,
+.sidebar-nav-item {
+    text-align: right;
+}
+
+@media (max-width: 48em) {
+    .sidebar {
+        position: relative;
+        width: 100%;
+    }
+
+    .sidebar-sticky {
+        position: relative;
+        right: auto;
+        top: auto;
+    }
+}
