@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 # title: D2Go 隐私政策
 permalink: /d2go/privacy
 ---

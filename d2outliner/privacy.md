@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 # title: D2Outliner Privacy
 permalink: /d2outliner/privacy
 ---

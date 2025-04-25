@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 # title: D2Choose 隐私政策
 permalink: /d2choose/privacy
 ---
