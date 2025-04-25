@@ -1,10 +1,8 @@
 ---
 layout: default
-# title: Fission Privacy
-permalink: /fission/privacy
 ---
 
-# **Privacy Policy**
+<!-- # **Privacy Policy** -->
 
 **Axplus Design** built the **Fission** app as a Free app. This SERVICE is provided by **Axplus Design** at no cost and is intended for use as is.
 

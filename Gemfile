@@ -7,15 +7,16 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "jekyll", "~> 4.3.2"
-# This is the default theme for new Jekyll sites. You may change this to anything you like.
-gem "minima", "~> 2.5"
-# If you want to use GitHub Pages, remove the "gem "jekyll"" above and
-# uncomment the line below. To upgrade, run `bundle update github-pages`.
+
+# 使用 github-pages gem 来确保版本一致性
+gem "github-pages", "~> 232", group: :jekyll_plugins
+
+# 如果你想使用 GitHub Pages，移除 "gem jekyll" 并取消注释下面的行
 # gem "github-pages", group: :jekyll_plugins
-# If you have any plugins, put them here!
+
+# 如果你有任何插件，把它们放在这里！
 group :jekyll_plugins do
-  gem "jekyll-feed", "~> 0.12"
+  gem "jekyll-feed", "~> 0.17.0"
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
@@ -32,10 +33,12 @@ gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 # do not have a Java counterpart.
 gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
-gem "jekyll-theme-so-simple"
-
 # Add required standard library gems for Ruby 3.4+
 gem "csv"
 gem "logger"
 gem "base64"
 gem "bigdecimal"
+
+# 添加必要的 Jekyll 插件
+gem "jekyll-sitemap", "~> 1.4.0"
+gem "jekyll-seo-tag", "~> 2.8.0"

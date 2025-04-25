@@ -1,10 +1,9 @@
 ---
 layout: default
-# title: D2Choose 隐私政策
 permalink: /d2choose/privacy
 ---
 
-<!-- D2Choose 隐私政策 -->
+<!-- # D2Choose 隐私政策 -->
 
 欢迎您访问我们的产品。 **D2Choose** （包括 App 等产品提供的服务，以下简称“产品和服务”）是由 **Axplus Design** （以下简称“我们”）开发并运营的。 确保用户的数据安全和隐私保护是我们的首要任务， 本隐私政策载明了您访问和使用我们的产品和服务时所收集的数据及其处理方式。
 
