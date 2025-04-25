@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /fusion/privacy
+# permalink: /fusion/privacy
 ---
 
 # Fusion 隐私政策

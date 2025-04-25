@@ -26,8 +26,8 @@ description: >- # this means to ignore newlines until "baseurl:"
     design, packaging design, graphic design, animation design, etc. They also
     value communication and collaboration with clients to solve design problems
     and create outstanding brand and memorable design works.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: '' # the subpath of your site, e.g. /blog
+url: '' # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username: jekyll
 

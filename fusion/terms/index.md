@@ -1,7 +1,7 @@
 ---
 layout: default
 # title: Fusion Terms
-permalink: /fusion/terms
+# permalink: /fusion/terms
 ---
 
 # Fusion 服务条款
