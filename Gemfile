@@ -47,3 +47,5 @@ gem "bigdecimal"
 # gem "jekyll-seo-tag", "~> 2.8.0"
 
 gem "webrick", "~> 1.8"
+
+gem "jekyll", "~> 3.10"

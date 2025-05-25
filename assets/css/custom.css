@@ -76,3 +76,12 @@ a.pagination-item:hover {
         border-bottom-right-radius: 4px;
     }
 }
+
+/* Fusion 子菜单样式 */
+.sidebar-nav-sub {
+    font-size: 0.78em;
+    font-weight: 400;
+    opacity: 0.8;
+    margin-left: 1.5em;
+    text-indent: 0.5em;
+}
