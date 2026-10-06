@@ -21,24 +21,24 @@
 title: Axplus Design
 email: axplus@163.com
 description: >- # this means to ignore newlines until "baseurl:"
-    Axplus Design is a creative design studio that has a passionate and
-    professional team. They provide services such as brand design, website
-    design, packaging design, graphic design, animation design, etc. They also
-    value communication and collaboration with clients to solve design problems
-    and create outstanding brand and memorable design works.
+  Axplus Design is a creative design studio that has a passionate and
+  professional team. They provide services such as brand design, website
+  design, packaging design, graphic design, animation design, etc. They also
+  value communication and collaboration with clients to solve design problems
+  and create outstanding brand and memorable design works.
 baseurl: '' # the subpath of your site, e.g. /blog
 url: 'https://axplus.github.io' # the base hostname & protocol for your site
 author:
-    name: 'Axplus Studio'
-    url: https://axplus.github.io
+  name: 'Axplus Studio'
+  url: https://axplus.github.io
 
 # Build settings
 remote_theme: poole/hyde
 plugins:
-    - jekyll-feed
-    - jekyll-sitemap
-    - jekyll-seo-tag
-    - jekyll-paginate
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-paginate
 
 # Pagination
 paginate: 5
@@ -75,11 +75,12 @@ github: [metadata]
 # Hyde theme settings
 sidebar-about-description: 'A creative design studio that has a passionate and professional team.'
 sidebar-nav-links:
-    Home: /
-    # D2Choose: /d2choose/
-    # D2Go: /d2go/
-    # D2Outliner: /d2outliner/
-    Note Fusion: /fusion/
-    # Fission: /fission/
-    Blog: /blog/
-    About: /about/
+  Home: /
+  # D2Choose: /d2choose/
+  # D2Go: /d2go/
+  # D2Outliner: /d2outliner/
+  Fusio: /fusion/
+  Infty: /infty/
+  # Fission: /fission/
+  Blog: /blog/
+  About: /about/
